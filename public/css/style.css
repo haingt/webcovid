@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+}
+
+p {
+    margin: 0;
+}
+
+.bg-nav {
+    background-color: #FC6733 !important;
+}
+
+.navbar {
+    background-color: rgba(224, 104, 24, 1) !important;
+}
+
+.navbar li a {
+    color: white !important;
+}
+
+.navbar li a:hover {
+    color: black !important;
+}
+
+hr {
+    border-bottom: 1px solid #FC6733;
+}
+
+.bgx {
+    background: #d3dbf3;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.bgx {
+    background: #e6e6e6;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+
+/* home */

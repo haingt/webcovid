@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="675330d7-0874-469d-9dbb-2c95c9fc5f98" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/covid.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/Bridge.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/controllers/Account.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/controllers/Admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/controllers/Home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/controllers/Login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/controllers/Post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/controllers/Vaccination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/core/App.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/core/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/core/Cookie.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/core/DB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/models/AccountModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/models/InjectionModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/models/PostModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/header_admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/header_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/layout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/layout_admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/no_header_layout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/page/account.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/page/admin/account/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/page/admin/account/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/page/admin/account/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/page/admin/homeA.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/page/admin/post/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/page/admin/post/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/page/admin/post/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/page/admin/vaccination/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/page/admin/vaccination/list2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/page/admin/vaccination/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/page/admin/vaccination/update2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/page/detail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/page/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/page/info_injection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/page/injection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/page/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvc/views/page/news.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/account.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/info_injection.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/news.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/style_admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/TiemChung.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/logoPtit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/slider2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/slider2s.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/tiemvaccine.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/upload/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/upload/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/upload/TiemChung.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/upload/tiemvaccine.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DbpBPX9iXRxzrKGS3z0nueyYZr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="675330d7-0874-469d-9dbb-2c95c9fc5f98" name="Changes" comment="" />
+      <created>1660977503279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660977503279</updated>
+      <workItem from="1660977505941" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,38 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.row-container {
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    padding: 24px;
+    justify-content: center;
+    /* vh= Viewport's height */
+    background-color: white;
+}
+
+.userError,
+.passwordError {
+    color: red;
+    background-color: blanchedalmond;
+    padding-left: 10px;
+    border-radius: 4px;
+    margin-top: 1px;
+}
+
+.bgx {
+    background: #d3dbf3;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    /* background-image: url("https://scontent.fhan3-5.fna.fbcdn.net/v/t1.6435-9/121782389_1441178432746269_6801208132029905430_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_ohc=NH7J4X0Ow_4AX9acSTK&_nc_ht=scontent.fhan3-5.fna&oh=44ee96842b8fafda214f767aed546f63&oe=61CFCB21");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+}

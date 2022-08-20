@@ -1,0 +1,22 @@
+.card-txt {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.bg-covid-red {
+    background-color: rgba(233, 47, 47, 0.2);
+}
+
+.bg-covid-green {
+    background-color: rgba(47, 233, 47, 0.2);
+}
+
+.bg-covid-gray {
+    background-color: rgba(47, 47, 47, 0.2);
+}
+
+label {
+    margin: 0;
+}

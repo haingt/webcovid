@@ -1,0 +1,93 @@
+@media (max-width: 768px) {
+    .text-menu {
+        display: none;
+    }
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: arial
+}
+
+body {
+    background: #f3f5f9
+}
+
+.wrapper {
+    position: relative
+}
+
+.sidebar {
+    position: fixed;
+    width: 16.67%;
+    height: 100%;
+    background: #000000e0;
+    padding: 20px 0
+}
+
+.text-muted {
+    color: #ffffff !important;
+    font-size: 24px;
+}
+
+ul {
+    padding-bottom: 20px
+}
+
+.fa {
+    padding-right: 10px;
+}
+
+.sidebar ul li {
+    padding: 15px
+}
+
+.sidebar ul li a {
+    color: #fff;
+    display: block
+}
+
+.sidebar ul li a .fas {
+    width: 30px;
+    color: #bdb8d7 !important
+}
+
+i.fas.fa-home:hover,
+i.fas.fa-file-invoice:hover,
+i.fas.fa-video:hover,
+i.fas.fa-id-badge:hover,
+i.fas.fa-external-link-alt:hover,
+i.fas.fa-code:hover,
+i.far.fa-calendar-alt:hover,
+i.far.fa-credit-card:hover {
+    color: #304FFE !important
+}
+
+.sidebar ul li a .far {
+    width: 30px;
+    color: #bdb8d7 !important
+}
+
+.sidebar ul li:hover {
+    background: #000
+}
+
+.sidebar ul li a:hover {
+    text-decoration: none
+}
+.bgx {
+    background: #d3dbf3;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.bgtb {
+    background: #e6e6e6;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,12 @@
+.account {
+    margin-top: 20vh;
+    margin-bottom: 20vh;
+    min-height: 400px;
+}
+
+.account {
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 5px solid #000000
+}
